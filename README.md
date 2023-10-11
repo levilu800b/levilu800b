@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working with [CodeYourFuture](https://github.com/CodeYourFuture)
 - 🌱 I’m currently learning Python, Machine Learning & AI
-- 💼 You can view my Portfolio: https://levichares.vercel.app/
+- 💼 You can view my Portfolio: https://levicharles.vercel.app/
 - 📫 You can reach out to me at: [levicharles900999@gmail.com](mailto:levicharles900999@gmail.com)
 - 👤 My LinkedIn profile: [Levi Udeh](https://linkedin.com/in/levi-udeh)
 
