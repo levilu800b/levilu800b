@@ -17,7 +17,7 @@ I'm currently working as a full-stack developer in the UK, where my journey invo
 ## ✨ Fun Facts 
 
 - Lord of the Rings is my favourite movie.
-- As a kid, I wanted to be an Engineer.
+- As a kid, I wanted to be a Mechanical Engineer.
 - I love using Mac after switching from Windows.
 
 ## 📫 Contact
